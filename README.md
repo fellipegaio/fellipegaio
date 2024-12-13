@@ -1,9 +1,18 @@
-### Hi👋, I'm Fellipe and I'm a Data Scientist 
+Hi there! 👋 I’m Fellipe, a Data Scientist with a Storytelling Edge
+Curiosity has always been my compass. From uncovering truths as a journalist to extracting insights from complex datasets, I thrive on turning questions into actionable answers. My journey began with storytelling, which evolved into a fascination for data—a medium that reveals patterns, truths, and untold stories waiting to be discovered.
 
-A dynamic professional with a proven track record in Sales Forecasting, Profits & Loss, and Financial Budgets, achieving top 10% global recognition with the TripAdvisor Travellers’ Choice.
-Currently immersed in a Data Science intensive program, mastering Python, SQL, and data analysis techniques. Proficient in exploratory data analysis, Jupyter Notebook, Visual Studio Code, and well-versed in machine learning.
+Graduating in journalism taught me to think critically, spot bias, and ask the right questions. Transitioning into data science, I brought this investigative mindset to my work, where I don’t just analyze numbers—I interview the data, seeking the narrative behind the patterns. I believe data is the start of the story, and digging deeper uncovers its full potential.
 
-I'm currently graduating from TripleTen Data Science online Bootcamp, which provides a wide range of projects, and I'm now ready to leverage this unique blend of management prowess and analytical skills to drive impactful results.
+In my professional experience as a General Manager in the hospitality industry, I’ve managed teams, optimized finances, and collaborated across departments to navigate challenges. Leveraging a multi-perspective approach has been key to implementing data-driven solutions and fostering effective decision-making.
+
+What I Bring to the Table:
+Technical Skills: Proficient in Python libraries (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), and tools like Jupyter Notebook and Visual Studio Code.
+Project Expertise: Hands-on experience building predictive models, conducting Exploratory Data Analysis (EDA), and developing machine learning projects that deliver actionable insights.
+Leadership: Years of experience in team management, bridging gaps between technical and operational teams, and driving projects with clear communication and purpose.
+Perspective: A journalist’s eye for detail, a data scientist’s analytical rigor, and a leader’s ability to bring it all together.
+Whether I’m creating machine learning models or managing business operations, I approach every challenge with curiosity and a commitment to uncovering the full story.  
+
+
 
 <!--
 **fellipegaio/fellipegaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
