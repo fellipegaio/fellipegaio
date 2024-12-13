@@ -1,4 +1,4 @@
-Hey there! 👋 I’m Fellipe—a Curious Data Scientist with a Story to Tell
+**Hey there! 👋 I’m Fellipe—a Curious Data Scientist with a Story to Tell**
 
 Curiosity has always been my compass. From uncovering truths as a journalist to extracting insights from complex datasets, I thrive on turning questions into actionable answers. My journey began with storytelling, which evolved into a fascination for data—a medium that reveals patterns, truths, and untold stories waiting to be discovered.
 
