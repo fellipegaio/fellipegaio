@@ -1,4 +1,5 @@
 Hey there! 👋 I’m Fellipe—a Curious Data Scientist with a Story to Tell
+
 Curiosity has always been my compass. From uncovering truths as a journalist to extracting insights from complex datasets, I thrive on turning questions into actionable answers. My journey began with storytelling, which evolved into a fascination for data—a medium that reveals patterns, truths, and untold stories waiting to be discovered.
 
 Graduating in journalism taught me to think critically, spot bias, and ask the right questions. Transitioning into data science, I brought this investigative mindset to my work, where I don’t just analyze numbers—I interview the data, seeking the narrative behind the patterns. I believe data is the start of the story, and digging deeper uncovers its full potential.
