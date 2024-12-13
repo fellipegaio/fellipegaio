@@ -6,7 +6,8 @@ Graduating in journalism taught me to think critically, spot bias, and ask the r
 
 In my professional experience as a General Manager in the hospitality industry, I’ve managed teams, optimized finances, and collaborated across departments to navigate challenges. Leveraging a multi-perspective approach has been key to implementing data-driven solutions and fostering effective decision-making.
 
-What I Bring to the Table:
+**What I Bring to the Table:**
+
 Technical Skills: Proficient in Python libraries (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), and tools like Jupyter Notebook and Visual Studio Code.
 Project Expertise: Hands-on experience building predictive models, conducting Exploratory Data Analysis (EDA), and developing machine learning projects that deliver actionable insights.
 Leadership: Years of experience in team management, bridging gaps between technical and operational teams, and driving projects with clear communication and purpose.
